@@ -53,6 +53,7 @@ For textures, The best workflow I thought of is that when choosing an object and
 ![AssetLibrary](https://github.com/user-attachments/assets/671a4235-64d2-4bdd-9ee3-a95a5297c1bc)
 
 A quick note regarding the textures. When creating your texture, you need to make sure that the texture has an alpha channel and the rest of the channels are set properly, so when using the texture, you can control it however you want, like using the alpha channel to hide an unwanted background. In my test, the picture wasn’t set properly, so I was stuck with the black background.😣
+
 ![Untitled-1](https://github.com/user-attachments/assets/7c4bac2c-45b0-4a01-a31b-db6295e3777d)
 
 # sketches from a mad man.
